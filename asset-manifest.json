@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-OzTour-App/static/css/main.cecbdf90.css",
+    "main.js": "/React-OzTour-App/static/js/main.0f62ec0c.js",
+    "static/media/beachVid.mp4": "/React-OzTour-App/static/media/beachVid.aaafa1c17fc79e9a6d45.mp4",
+    "static/media/keywest.jpg": "/React-OzTour-App/static/media/keywest.1e30514942c6f50bea09.jpg",
+    "static/media/maldives2.jpg": "/React-OzTour-App/static/media/maldives2.ee088b6ef17100d7f85f.jpg",
+    "static/media/borabora1.jpg": "/React-OzTour-App/static/media/borabora1.e6c4841f299365fdfa10.jpg",
+    "static/media/borabora2.jpg": "/React-OzTour-App/static/media/borabora2.726ded1de37915f83c71.jpg",
+    "static/media/maldives1.jpg": "/React-OzTour-App/static/media/maldives1.6912181c1b1fc6c5fa6f.jpg",
+    "static/media/maldives3.jpg": "/React-OzTour-App/static/media/maldives3.9c3058f9a039c5a102a8.jpg",
+    "index.html": "/React-OzTour-App/index.html",
+    "main.cecbdf90.css.map": "/React-OzTour-App/static/css/main.cecbdf90.css.map",
+    "main.0f62ec0c.js.map": "/React-OzTour-App/static/js/main.0f62ec0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cecbdf90.css",
+    "static/js/main.0f62ec0c.js"
+  ]
+}
